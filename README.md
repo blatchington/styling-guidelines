@@ -1,5 +1,7 @@
 # Styling Guidelines
 
+Use these styling guidelines to inform the decisions you make when producing printed and digital materials for ![Blatchington Court Trust](https://www.blatchingtoncourt.org.uk/).
+
 ## Contents
  - Logo
  - Colours
