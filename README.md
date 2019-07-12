@@ -31,7 +31,7 @@ These colours have been selected and considered to be safe colours to use within
 [Open Sans](https://fonts.google.com/specimen/Open+Sans) is the recommended font face.
 
 ### Example
-```<span style="font-family: 'Open Sans', sans-serif;">The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.</span>```
+![Typography Example](/assets/images/open-sans-text-example.jpg)
 
 ### CSS Import
 ```@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');```
