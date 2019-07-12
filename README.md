@@ -39,7 +39,8 @@ Include Google Web Fonts
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 
 CSS
-font-family: 'Open Sans', sans-serif;```
+font-family: 'Open Sans', sans-serif;
+```
 
 ## Accessibility
 Here are some accessibility stuff
