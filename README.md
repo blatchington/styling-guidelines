@@ -11,10 +11,17 @@ Here is some logo stuff
 
 ## Colours
 
-| Example | Name | Hex | RGB |
-| ------- | ---- | --- | --- |
-|![enter image description here](https://files.slack.com/files-pri/TH6ARV6HY-FL1DFN8QK/ff5757_64_64.jpg)| Pink | #FF5757 | 255, 87, 87 |
-|![enter image description here](https://files.slack.com/files-pri/TH6ARV6HY-FLCS4BZ8D/blue.jpg) | Teal | #1B9DB1 | 27, 157, 177 |
+| Name | Hex | RGB | Example |
+|------|-----|-----|--------|
+| Rose | #ff5757 | 255,87,87 |--|
+| green | #47b752 | 71,183,82 |--|
+| Light Blue | #3cace2 | 60,172,226 |--|
+| Bright Pink |#e40f73 | 228,15,115 |--|
+| Teal | #1b9db1 | 27,157,177 | |
+| Yellow |#ffd440 | 255,212,64 |--|
+| Purple | #a43895 | 164,56,149 |--|
+| Dark Blue | #4e54a4 | 78,84,164 |--|
+| Orange | #f68a1f | 246,138,31 |--|
 
 ## Typography
 Here is some typography
