@@ -30,17 +30,14 @@ These colours have been selected and considered to be safe colours to use within
 ## Typography
 [Open Sans](https://fonts.google.com/specimen/Open+Sans) is the recommended font face.
 
-### CSS/HTML
-```
-CSS Import
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+### CSS Import
+```@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');```
 
-Include Google Web Fonts
-<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+### Include Google Web Fonts
+```<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">```
 
-CSS
-font-family: 'Open Sans', sans-serif;
-```
+### CSS
+```font-family: 'Open Sans', sans-serif;```
 
 ## Accessibility
 Here are some accessibility stuff
