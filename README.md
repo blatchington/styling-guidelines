@@ -13,7 +13,7 @@ Here is some logo stuff
 
 | Name | Hex | RGB | Example |
 |------|-----|-----|--------|
-| Rose | #ff5757 | 255,87,87 | ![Rose](/assets/images/pink.jpg) |
+| Rose | #ff5757 | 255,87,87 | ![Rose](/assets/images/rose.jpg) |
 | green | #47b752 | 71,183,82 |![Green](/assets/images/green.jpg)|
 | Light Blue | #3cace2 | 60,172,226 |![Light Blue](/assets/images/light-blue.jpg)|
 | Bright Pink |#e40f73 | 228,15,115 |![Bright Pink](/assets/images/pink.jpg)|
