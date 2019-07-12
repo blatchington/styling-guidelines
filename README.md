@@ -13,6 +13,8 @@ Here is some logo stuff
 
 ## Colours
 
+These colours have been selected and considered to be safe colours to use within both printed and digital materials.
+
 | Name | Hex | RGB | Example |
 |------|-----|-----|--------|
 | Rose | #ff5757 | 255,87,87 | ![Rose](/assets/images/rose.jpg) |
